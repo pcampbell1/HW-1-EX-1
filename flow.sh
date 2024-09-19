@@ -4,9 +4,9 @@
 git add .
 
 # commit changes
-git commit -m
+git commit -m "Edited flow.sh"
 
 # push changes
-git push
+git push origin main
 
-./flow.sh
+
